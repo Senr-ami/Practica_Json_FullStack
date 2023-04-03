@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+    <supermercado>
+        <nombre>Lidl</nombre>
+        <direccion>Calle falsa, 123</direccion>
+        <productos>
+            <producto>
+                <nombre>Leche</nombre>
+                <marca>Central lechera Almeriense</marca>
+                <categoria>Lácteo</categoria>
+                <oferta>true</oferta>
+                <duracion_oferta>01/04/2023 - 30/04/2023</duracion_oferta>
+                <unidad_de_medida>litros</unidad_de_medida>
+                <precio>0.99</precio>
+                <unidades>2</unidades>
+                <comprado>true</comprado>
+                <comentarios>Para el colacao bien.</comentarios>
+            </producto>
+            <producto>
+                <nombre>Nocilla</nombre>
+                <marca>Nocilla</marca>
+                <categoria>Desayuno</categoria>
+                <oferta>false</oferta>
+                <duracion_oferta/>
+                <unidad_de_medida>gr</unidad_de_medida>
+                <precio>1.20</precio>
+                <unidades>1</unidades>
+                <comprado>true</comprado>
+                <comentarios>Nocillaaaaaaaaaa, qué merendillaaaaaaaaaaaaaa.</comentarios>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Aldi</nombre>
+        <direccion>Avenida de mentira, 000</direccion>
+        <productos>
+            <producto>
+                <nombre>Manzanas</nombre>
+                <marca>Del campo</marca>
+                <categoria>Fruta</categoria>
+                <oferta>true</oferta>
+                <duracion_oferta>01/04/2023 - 30/04/2023</duracion_oferta>
+                <unidad_de_medida>kg</unidad_de_medida>
+                <precio>1.99</precio>
+                <unidades>1</unidades>
+                <comprado>false</comprado>
+                <comentarios>Alguna parecía tener alguna que otra ciudad de bichos dentro.</comentarios>
+            </producto>
+            <producto>
+                <nombre>Cereales</nombre>
+                <marca>Chococrispis</marca>
+                <categoria>Desayuno</categoria>
+                <oferta>false</oferta>
+                <duracion_oferta/>
+                <unidad_de_medida>paquete</unidad_de_medida>
+                <precio>2.50</precio>
+                <unidades>1</unidades>
+                <comprado>false</comprado>
+                <comentarios>Ricos, pero muy caros.</comentarios>
+            </producto>
+            <producto>
+                <nombre>Barra de pan integral</nombre>
+                <marca>Horno del pueblo</marca>
+                <categoria>Panadería</categoria>
+                <oferta>true</oferta>
+                <duracion_oferta>10/04/2023 - 20/04/2023</duracion_oferta>
+                <unidad_de_medida>unidad</unidad_de_medida>
+                <precio>0.80</precio>
+                <unidades>2</unidades>
+                <comprado>false</comprado>
+                <comentarios>Estaba dura como un tronco, no la compré.</comentarios>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Mercafiona</nombre>
+        <direccion>País de muy muy lejano, 54</direccion>
+        <productos>
+            <producto>
+                <nombre>Poción del amor verdadero</nombre>
+                <marca>Madrina malvada</marca>
+                <categoria>Bebida</categoria>
+                <oferta>true</oferta>
+                <duracion_oferta>01/04/2023 - 16/04/2023</duracion_oferta>
+                <unidad_de_medida>ml</unidad_de_medida>
+                <precio>Una lágrima de tristeza</precio>
+                <unidades>5</unidades>
+                <comprado>true</comprado>
+                <comentarios>No recomendable, se enamoró de mí una rana, yo esperaba una princesa.</comentarios>
+            </producto>
+            <producto>
+                <nombre>Elixir de la juventud</nombre>
+                <marca>Mago supremo</marca>
+                <categoria>Bebida mágica</categoria>
+                <oferta>true</oferta>
+                <duracion_oferta>01/04/2023 - 30/04/2023</duracion_oferta>
+                <unidad_de_medida>botella</unidad_de_medida>
+                <precio>99.99</precio>
+                <unidades>1</unidades>
+                <comprado>true</comprado>
+                <comentarios>Muy recomendable para quienes buscan una alternativa a la cirugía plástica. El sabor es excelente, aunque el precio es algo elevado.</comentarios>
+            </producto>
+        </productos>
+    </supermercado>
+</supermercados>
+
+
+
+
+
+
+
+<comentarios></comentarios>

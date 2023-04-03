@@ -1,0 +1,120 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Lidl",
+      "direccion": "Calle falsa, 123",
+      "productos": [
+            {
+                "nombre": "Leche",
+                "marca": "Central lechera Almeriense",
+                "categoria": "Lácteo",
+                "oferta": true,
+                "duracion_oferta": "01/04/2023 - 30/04/2023",
+                "unidad_de_medida": "l",
+                "precio": 0.99,
+                "unidades": 2,
+                "comprado": true,
+                "comentarios": "Para el colacao bien."
+            },
+            {
+                "nombre": "Nocilla",
+                "marca": "Nocilla",
+                "categoria": "Desayuno",
+                "oferta": false,
+                "duracion_oferta": null,
+                "unidad_de_medida": "gr",
+                "precio": 1.20,
+                "unidades": 1,
+                "comprado": true,
+                "comentarios": "Nocillaaaaaaaaaa, qué merendillaaaaaaaaaaaaaa."
+            },
+            {
+                "nombre": "Yogur de fresa",
+                "marca": "Danone",
+                "categoria": "Lácteo",
+                "oferta": true,
+                "duracion_oferta": "01/04/2023 - 15/04/2023",
+                "unidad_de_medida": "unidad",
+                "precio": 0.79,
+                "unidades": 4,
+                "comprado": false,
+                "comentarios": "A pesar de la oferta, sigo siendo intolerante a la lactosa."
+            }
+        ]
+    },
+    {
+      "nombre": "Aldi",
+      "direccion": "Avenida de mentira, 000",
+      "productos": [
+            {
+                "nombre": "Manzanas",
+                "marca": "Del campo",
+                "categoria": "Fruta",
+                "oferta": true,
+                "duracion_oferta": "01/04/2023 - 30/04/2023",
+                "unidad_de_medida": "kg",
+                "precio": 1.99,
+                "unidades": 1,
+                "comprado": false,
+                "comentarios": "Alguna parecía tener alguna que otra ciudad de bichos dentro."
+            },
+            {
+                "nombre": "Cereales",
+                "marca": "Chococrispis",
+                "categoria": "Desayuno",
+                "oferta": false,
+                "duracion_oferta": null,
+                "unidad_de_medida": "paquete",
+                "precio": 2.50,
+                "unidades": 1,
+                "comprado": false,
+                "comentarios": "Ricos, pero muy caros."
+            },
+            {
+                "nombre": "Barra de pan integral",
+                "marca": "Horno del pueblo",
+                "categoria": "Panadería",
+                "oferta": true,
+                "duracion_oferta": "10/04/2023 - 20/04/2023",
+                "unidad_de_medida": "unidad",
+                "precio": 0.80,
+                "unidades": 2,
+                "comprado": false,
+                "comentarios": "Estaba dura como un tronco, no la compré."
+            }
+        ]
+    },
+    {
+        "nombre": "Mercafiona",
+        "direccion": "País de muy muy lejano, 54",
+        "productos": [
+            {
+                "nombre": "Poción del amor verdadero",
+                "marca": "Madrina malvada",
+                "categoria": "Bebida",
+                "oferta": true,
+                "duracion_oferta":"01/04/2023 - 16/04/2023",
+                "unidad_de_medida": "ml",
+                "precio": "Una lágrima de tristeza",
+                "unidades": 5,
+                "comprado": true,
+                "comentarios": "No recomendable, se enamoró de mí una rana, yo esperaba una princesa."
+            },
+            {
+                "nombre": "Elixir de la juventud",
+                "marca": "Mago supremo",
+                "categoria": "Bebida mágica",
+                "oferta": true,
+                "duracion_oferta": "01/04/2023 - 30/04/2023",
+                "unidad_de_medida": "botella",
+                "precio": 99.99,
+                "unidades": 1,
+                "comprado": true,
+                "comentarios": "Muy recomendable para quienes buscan una alternativa a la cirugía plástica. El sabor es excelente, aunque el precio es algo elevado"
+            }
+
+        ]
+    }
+  ]
+}
+
